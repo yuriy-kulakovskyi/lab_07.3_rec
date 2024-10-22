@@ -1,0 +1,3 @@
+SumBelowDiagonalTest.HandlesPositiveValues 2 0.00943737
+SumBelowDiagonalTest.HandlesNegativeValues 0 0
+---

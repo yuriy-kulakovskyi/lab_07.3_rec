@@ -1,0 +1,30 @@
+Start testing: Oct 22 20:29 EEST
+----------------------------------------------------------
+1/1 Testing: SumBelowDiagonalTest.HandlesPositiveValues
+1/1 Test: SumBelowDiagonalTest.HandlesPositiveValues
+Command: "/Users/yura_kulakovskyi/Documents/C++/AP/PR7/PR7_3_rec/cmake-build-debug/PR7_3_tests" "--gtest_filter=SumBelowDiagonalTest.HandlesPositiveValues" "--gtest_also_run_disabled_tests"
+Directory: /Users/yura_kulakovskyi/Documents/C++/AP/PR7/PR7_3_rec/cmake-build-debug
+"SumBelowDiagonalTest.HandlesPositiveValues" start time: Oct 22 20:29 EEST
+Output:
+----------------------------------------------------------
+Running main() from /Users/yura_kulakovskyi/Documents/C++/AP/PR7/PR7_3_rec/lib/googletest/googletest/src/gtest_main.cc
+Note: Google Test filter = SumBelowDiagonalTest.HandlesPositiveValues
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from SumBelowDiagonalTest
+[ RUN      ] SumBelowDiagonalTest.HandlesPositiveValues
+[       OK ] SumBelowDiagonalTest.HandlesPositiveValues (0 ms)
+[----------] 1 test from SumBelowDiagonalTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"SumBelowDiagonalTest.HandlesPositiveValues" end time: Oct 22 20:29 EEST
+"SumBelowDiagonalTest.HandlesPositiveValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 22 20:29 EEST
